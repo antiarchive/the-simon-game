@@ -1,0 +1,49 @@
+body{
+    background-color: darkslategrey;
+    text-align: center ;
+}
+
+.heading{
+    font-family: 'Press Start 2P';
+    color: azure;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    font-size: 4rem;
+}
+
+.container{
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.btn{
+    margin : 30px;
+    display: inline-block;
+    height : 200px;
+    width : 200px;
+    border: 10px solid black;
+    border-radius: 40px;
+}
+
+.r{
+    background-color: red;
+}
+
+.g{
+    background-color: green;
+}
+
+.b{
+    background-color: blue;
+}
+
+.y{
+    background-color: yellow;
+}
+
+.pressed{
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  
